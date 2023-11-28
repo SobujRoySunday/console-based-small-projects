@@ -1,5 +1,3 @@
-Certainly! Below is a sample README.md file for your GitHub repository:
-
 # Console-Based Apps Collection
 
 Welcome to the Console-Based Apps Collection repository, created by Sorbopriyo Roy. This repository houses small console-based applications developed using C and C++.
